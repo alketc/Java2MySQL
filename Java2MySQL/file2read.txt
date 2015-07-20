@@ -1,0 +1,4 @@
+Harry Poter,20,100
+Tom Soyer,30,200
+Oz,15,400
+DoctorDoLittle,20,300
